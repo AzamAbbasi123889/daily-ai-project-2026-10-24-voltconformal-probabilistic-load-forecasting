@@ -1,0 +1,2 @@
+# daily-ai-project-2026-10-24-voltconformal-probabilistic-load-forecasting
+VoltConformal is a production-grade probabilistic net-load forecasting and battery dispatch engine for decentralized solar-plus-storage microgrids. It combines gradient-boosted quantile regressors with inductive split-conformal prediction to output rigorous, finite-sample coverage intervals for volatile renewable generation and net load. An integra
